@@ -1,12 +1,11 @@
 # 🧾 SQL Bookings Analysis
 
-This project is focused on analyzing hotel bookings data using SQL. It provides key insights into customer behavior, booking trends, cancellations, and business performance. The goal is to derive actionable insights for decision-makers in the hospitality industry.
+This project focuses on analysing cab booking data using SQL. It provides key insights into customer behaviour, booking trends, cancellations, and business performance. The goal is to derive actionable insights for industry decision-makers.
 
 ---
 
 ## 📊 Project Overview
 
-- **Dataset:** Hotel bookings dataset (CSV format)
 - **Tools Used:** MySQL / PostgreSQL (compatible SQL), DB Browser
 - **Skills Demonstrated:** SQL querying, filtering, grouping, aggregations, joins, CTEs, window functions
 
@@ -16,7 +15,7 @@ This project is focused on analyzing hotel bookings data using SQL. It provides 
 
 - Understand guest booking patterns
 - Identify peak seasons and high cancellation periods
-- Analyze revenue trends by market segment
+- Analyse revenue trends by market segment
 - Evaluate average length of stay and distribution by hotel type
 - Track booking lead times for better forecasting
 
@@ -43,20 +42,6 @@ sql-bookings-analysis/
 │ └── ...
 │
 ├── README.md
-└── Dataset/
-└── hotel_bookings.csv
-
-
----
-
-## 📈 Sample Insights
-
-- 🏨 City hotels have higher cancellation rates than resort hotels.
-- 📅 Most bookings are made during summer, especially July and August.
-- 🌍 Online Travel Agents (OTA) contribute the most bookings.
-- 💰 Revenue is higher from repeat guests even with fewer bookings.
-
----
 
 ## 📌 How to Use
 
